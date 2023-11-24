@@ -1,4 +1,4 @@
-FROM node:20.7
+FROM node:20.9
 
 WORKDIR /home/node/dvba
 
